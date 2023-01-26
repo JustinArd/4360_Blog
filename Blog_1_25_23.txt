@@ -1,0 +1,11 @@
+Introduction
+Microservices have recently become a hot trend for software development. It provides precise scalability and enabled continuous delivery of new features and capabilities. However, despite this, they are not for everyone. The Microservices architecture model is described to be complex and culturally disruptive. When applied inappropriately, it may perform poorly and not give the desired agility benefits. 
+
+Pros and Cons of Microservices
+The advantage of Microservices is that it enables the development teams to independently build, test, package, deploy and scale individual components within an application influencing the granularity of microservices. Granularity refers to the level of detailed information available within your API which delivers agility and loose coupling. But with that, it also increases complexity. The disadvantage is the increase in complexity of communication, it requires more resources, and it becomes difficult in testing and debugging due to the independent resources. Overall it is not really ideal for small applications. 
+
+Microservices Alternatives
+It is possible to go for alternative methods. Miniservices Arcitecture are a popular alternative. Miniservices are easier to update than monolithic applications and are less disruptive to most organizations. They also can share data compared to Microservices. But overall they will not deliver the same agility and scalability advantages as Microservice Architectures. Low-code Methods are also an alternative. Organizations are able to gain significant agility advantages using low-code development but are limited to scalability limits. 
+
+Conclusion
+I recommended approaching Microservices with caution and not getting caught up in the hype. Although Microservices Architecture can deliver better agility and scalability advantages than any other paradigm, most organizations don’t have that type of extreme agility and scalability requirements that push teams to adopt it. By 2022, an estimated 70% of organizations attempted to adopt microservices, but eventually found the effort too disruptive and will have to switch to Miniservices instead. Some companies even go for a hybrid approach, using both fine-grained and coarse-grained APIs. Do what’s best for your application.
